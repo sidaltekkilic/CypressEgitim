@@ -27,5 +27,10 @@ describe('Dashboard ', () => {
     cy.contains('All')
     cy.contains('Shirts')
   })
+
+
+
+
+  
 })
 
